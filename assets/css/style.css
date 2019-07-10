@@ -1,8 +1,9 @@
- #quiz-box {
+ #start-box {
      background: red;
 
  }
 
- #btn {
-     align-content: center;
+ #questions-box {
+     background:red;
  }
+ 
